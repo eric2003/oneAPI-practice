@@ -13,4 +13,4 @@ icx main.cpp -DSSE -mavx512f -o testprj
 
 icx main.cpp -DAVX -mavx512f -o testprj
 
-icx main.cpp -DSSE -mavx512f -o testprj
+icx main.cpp -mavx512f -o testprj
